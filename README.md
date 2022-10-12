@@ -8,3 +8,4 @@ Various terminal commands:
 |---------|-------------|
 | ls -all | List all files with details |  
 | cat <file> | Show the content of the file |
+| man 2 write | Displays manual documentation |
